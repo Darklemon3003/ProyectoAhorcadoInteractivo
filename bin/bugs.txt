@@ -1,0 +1,3 @@
+# Bugs desbloqueados y bugs activos
+ACTIVOS:default_glitch
+default_glitch

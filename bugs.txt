@@ -1,0 +1,8 @@
+# Bugs desbloqueados y bugs activos
+ACTIVOS:crown_skull
+default_glitch
+ded_hacker
+vr_demon
+devil_core
+alien_orb
+crown_skull

@@ -1,0 +1,9 @@
+# Fondos desbloqueados
+ACTIVO=binary_rain
+default_void
+binary_rain
+neon_circuit
+matrix_cascade
+particle_net
+inferno
+glitch_storm

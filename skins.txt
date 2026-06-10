@@ -1,0 +1,4 @@
+# Skins desbloqueados
+ACTIVO=oro_elite
+default_cian
+oro_elite
